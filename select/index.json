@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Blueberry Faygo",
+  "base_artist": "Lil Mosey",
+  "createdAt": "2026-02-26T14:33:32.620947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/01_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/02_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/03_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/04_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "RUSSELL!",
+      "has_synced": false,
+      "path": "select/05_Blueberry_Faygo_RUSSELL!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/06_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/07_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/08_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/09_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/10_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/11_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/12_Blueberry_Faygo_Lil_Mosey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "has_synced": false,
+      "path": "select/pl_01_Blueberry_Faygo_Lil_Mosey.txt"
+    }
+  ]
+}
